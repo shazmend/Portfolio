@@ -28,7 +28,6 @@
 .Projects h2{
     color: #5e8684; 
     padding: 4vh 4vh;
-    margin-top: 4vh;
 }
 .cards{
     display: grid;
@@ -73,7 +72,7 @@
     }
     .Projects h2{
         color: #5e8684; 
-        padding: 4vh 4vh;
+        padding: 8vh 4vh;
     }
     .cards{
         display: grid;
